@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+    
+
+body {
+    background-color: #ffffff;
+    
+    
+
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #052799;
+    
+}
+
+.header h1  {
+    display: inline-block;
+    font-size: 48px;
+    margin-left: 20px;
+    color:#a31a81
+
+    
+    }
+
+
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+
+
+.header div ul li {
+    display: inline-table;
+    margin-left: 20px;
+}
+
+a {
+    color: #e7d8d8;
+    text-decoration: none;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+
+p {
+    font-size: 16px;
+
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.inner-content{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff; 
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', "Calibri", 'Trebuchet MS', sans-serif;
+    background-color: #1662ad;
+}
+
+
+.benefits h3   {
+    margin-bottom: 35px;
+    text-align: center;
+    color: #e7dbdb;
+    }
+.benefits p{
+    margin-bottom: 25px;
+    color: #e7d8d8;
+    
+}
+.benefits img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+.content img{
+    max-height: 200px;
+}
+
+.content h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+
+}
+
+
+.footer    {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    
+}
+
+.footer h2 {
+    font-size: 20px;
+}
