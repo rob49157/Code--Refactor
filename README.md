@@ -22,4 +22,3 @@ On class "content" i created  an "inner-content" class in order to make css code
 
 https://github.com/rob49157/Code--Refactor
 
-# fsadjf;dsahviufdahvoijadjfioads'f
