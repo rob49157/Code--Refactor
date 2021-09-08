@@ -102,7 +102,7 @@ p {
     background-color: #1662ad;
 }
 
-
+/* merge the benefits classes to decrease the code because they all shared the same elements */
 .benefits h3   {
     margin-bottom: 35px;
     text-align: center;
@@ -113,16 +113,18 @@ p {
     color: #e7d8d8;
     
 }
+
+/* merge .benefits img into one becasue they all had the same elements */
 .benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* merge .content img into one becasue they all had the same elements */
 .content img{
     max-height: 200px;
 }
-
+/* merge .content h2 into one becasue they all had the same elements */
 .content h2{
     margin-bottom: 20px;
     font-size: 36px;
